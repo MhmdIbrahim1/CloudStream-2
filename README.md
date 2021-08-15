@@ -1,5 +1,10 @@
 # CloudStream 2
 
+All support for CloudStream 2 is dropped in favor of CloudStream 3
+
+**CloudStream 3:**
+https://github.com/LagradOst/CloudStream-3
+
 **DOWNLOAD:**
 https://github.com/LagradOst/CloudStream-2/releases
 
